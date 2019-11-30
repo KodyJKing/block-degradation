@@ -1,0 +1,16 @@
+[
+{
+  "modid": "blockdegradation",
+  "name": "Block Degradation",
+  "description": "Adds configurable decay and degradation system for blocks.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AngryGrenades"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
