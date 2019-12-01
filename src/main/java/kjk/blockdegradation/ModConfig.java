@@ -13,7 +13,7 @@ import java.util.Map;
 
 @Config(modid = BlockDegradation.MODID)
 public class ModConfig {
-    @Config.Comment("Format: <input> <output> <halflife ( in seconds)>")
+    @Config.Comment("Format: <input> <output> <half-life(in seconds)>")
     public static String[] rules = {
             "minecraft:stonebrick#0 minecraft:stonebrick#2 50400"
     };
